@@ -1,4 +1,4 @@
-# 42SP04_ft_printf
+# 42SP04_born2beroot
 Project #4 in 42SP cursus
 
 ## Summary:
