@@ -1,8 +1,4 @@
-# 42 Project #4: Born2beroot
-
-
-# Step-by-Step to the 42 Project
-
+# The Project's Activities
 
 1. Download the latest stable version of the installation image of Debian.
 	Debian
